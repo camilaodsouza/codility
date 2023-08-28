@@ -1,0 +1,2 @@
+# codility
+Solutions in Python
