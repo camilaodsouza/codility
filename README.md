@@ -1,2 +1,2 @@
 # codility
-Solutions in Python
+Solutions in Python for the codility exercises 
